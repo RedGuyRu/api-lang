@@ -1,5 +1,8 @@
 {
-  "hub": {
-    "status": "Status page"
-  }
+    "hub": {
+        "status": "Status page",
+        "serversPanel": "Servers panel",
+        "panel": "Panel",
+        "apps": "Apps"
+    }
 }
