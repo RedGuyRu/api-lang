@@ -3,6 +3,7 @@
         "status": "Status page",
         "serversPanel": "Servers panel",
         "panel": "Panel",
-        "apps": "Apps"
+        "apps": "Apps",
+      "logs": "Logs"
     }
 }
