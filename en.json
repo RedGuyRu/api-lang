@@ -4,6 +4,11 @@
         "serversPanel": "Servers panel",
         "panel": "Panel",
         "apps": "Apps",
-      "logs": "Logs"
+        "logs": "Logs"
+    },
+    "email": {
+        "password-reset": {
+            "title": "Password reset"
+        }
     }
 }
