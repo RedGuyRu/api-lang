@@ -1,14 +1,16 @@
 {
-    "hub": {
-        "status": "Status page",
-        "serversPanel": "Servers panel",
-        "panel": "Panel",
-        "apps": "Apps",
-        "logs": "Logs"
-    },
     "email": {
         "password-reset": {
             "title": "Password reset"
         }
+    },
+    "hub": {
+        "apps": "Apps",
+        "imguardbot": "Imperium Guard",
+        "logs": "Logs",
+        "panel": "Panel",
+        "pwvoicebot": "Undercover transcriber",
+        "serversPanel": "Servers panel",
+        "status": "Status page"
     }
 }
