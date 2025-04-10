@@ -1,15 +1,17 @@
 {
-    "hub": {
-        "status": "Status page",
-        "serversPanel": "Servers panel",
-        "panel": "Panel",
-        "apps": "Apps",
-        "logs": "Logs"
-    },
     "email": {
         "password-reset": {
             "title": "Password reset",
             "body": "<h1>We have received a request to reset your password at redguy.ru</h1><p><a href=“{{link}}” style=“color: black; text-decoration: none;”>To reset your password, click here or paste this link into your browser:<br>{{{link}}</a></p><p>If it wasn't you, ignore the email.</p>"
         }
+    },
+    "hub": {
+        "apps": "Apps",
+        "imguardbot": "Imperium Guard",
+        "logs": "Logs",
+        "panel": "Panel",
+        "pwvoicebot": "Undercover transcriber",
+        "serversPanel": "Servers panel",
+        "status": "Status page"
     }
 }
