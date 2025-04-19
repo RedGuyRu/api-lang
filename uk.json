@@ -1,10 +1,12 @@
 {
     "hub": {
         "apps": "Додаток",
+        "bots": "",
         "imguardbot": "",
         "panel": "Панель",
         "pwvoicebot": "",
         "serversPanel": "Статус на сервери",
+        "services": "",
         "status": "Статус на сервери"
     }
 }
